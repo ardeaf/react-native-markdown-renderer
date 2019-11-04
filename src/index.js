@@ -10,6 +10,7 @@ import getUniqueID from './lib/util/getUniqueID';
 import hasParents from './lib/util/hasParents';
 import openUrl from './lib/util/openUrl';
 import tokensToAST from './lib/util/tokensToAST';
+import mergeStyleSheets from './lib/util/mergeStyleSheets';
 import renderRules from './lib/renderRules';
 import AstRenderer from './lib/AstRenderer';
 import MarkdownIt from 'markdown-it';
